@@ -99,7 +99,9 @@ module.exports = {
     "startYear": "2022",
     // 密钥
     "keyPage": {
-      "keys": ['ada93586f9dbf6aacaece4a2c446e921'], // 1.3.0 版本后需要设置为密文
+      "keys": ['ada93586f9dbf6aacaece4a2c446e921',
+      '4e2e25544038f990795073066ccfba2b',
+      '02c75fb22c75b23dc963c7eb91a062cc'], // 1.3.0 版本后需要设置为密文
       "color": '#42b983', // 登录页动画球的颜色
       "lineColor": '#42b983' // 登录页动画线的颜色
     }
