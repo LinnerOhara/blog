@@ -37,7 +37,7 @@ module.exports = {
         "items": [
           {
             "text": "vuepress-reco",
-            "link": "/docs/theme-reco/"
+            "link": "/blogs/theme-reco/"
           }
         ]
       },
@@ -54,7 +54,7 @@ module.exports = {
       }
     ],
     "sidebar": {
-      "/docs/theme-reco/": [
+      "/blogs/theme-reco/": [
         "",
         "theme",
         "plugin",
