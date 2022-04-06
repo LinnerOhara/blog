@@ -1,7 +1,7 @@
 {
-  "name": "Linner",
+  "name": "Lanier",
   "version": "1.0.0",
-  "author": "reco_luan",
+  "author": "Lanier",
   "scripts": {
     "dev": "vuepress dev . --open --host \"localhost\"",
     "build": "vuepress build ."
@@ -10,5 +10,5 @@
     "vuepress": "1.8.2",
     "vuepress-theme-reco": "1.6.10"
   },
-  "description": "Linner's Blog"
+  "description": "Lanier's Blog"
 }
