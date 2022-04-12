@@ -95,7 +95,7 @@ module.exports = {
     // "sidebarDepth": 4,
     "lastUpdated": "Last Updated",
     "author": "Peijie Ke",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/avatar.jpg",
     // "record": "xxxx",
     "startYear": "2022",
     // 密钥
