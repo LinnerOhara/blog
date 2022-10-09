@@ -11,9 +11,16 @@ heroImage: null
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
+modules: # 自定义组件配置
+  # - BannerBrand
 bgImage: '/bg.jpg'
 bgImageStyle: {
 }
+customFooter: #底部模块配置
+  record: 域名备案文案
+  recordLink: 域名备案地址
+  cyberSecurityRecord: 公安备案文案
+  cyberSecurityLink: 公安备案地址
 # isShowTitleInHome: false
 # actionText: Guide
 # actionLink: /views/other/guide
